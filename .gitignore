@@ -1,0 +1,4 @@
+*.vcx*
+Debug/
+Release/
+x64/

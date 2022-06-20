@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootnode version="1.0" type="example">
+	<childnode>
+		<data encoding="csv">
+Hi! This is the data inside
+the data node
+		</data>
+	</childnode>
+</rootnode>
+
